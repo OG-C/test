@@ -8,3 +8,6 @@ https://subcon.dlj.tf/sub?target=clash&new_name=true&url=vless%3A%2F%2FewogICJ2I
 
 https://a.luxury/link/wxuuTHreRpTqXrnf?list=shadowrocket
 
+https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fssrsub%2Fssr%2Fmaster%2Ftrojan&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_AdblockPlus.ini
+
+https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fclashconfig%2Fonline%2Fmain%2FSurfShark(49396).yml&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_AdblockPlus.ini&emoji=true&list=false&udp=true&tfo=false&scv=false&fdn=false&sort=false
